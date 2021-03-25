@@ -1883,11 +1883,14 @@ ul.tree-3tCaw8 {
 }
 
 .chat-3bRxxu .content-yTz4x3:before {
-    display: none
+    background: rgb(47, 49, 54);
+    display: none;
+    
+    
 }
 
 .chat-3bRxxu .chatContent-a9vAAp {
-    background: rgba(47, 49, 54, 0.6)
+    background: rgb(47, 49, 54)
 }
 
 .chat-3bRxxu .base-34jWEe {

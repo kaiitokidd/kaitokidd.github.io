@@ -1,5 +1,4 @@
-/*! KAITODEV v6.0.3 by the CV team */
-/*! Powered by DiscordSelectors v0.2.7 */
+/*! KAITODEV v1.0.0 */
 :root {
     --main-color: #2780e6;
     --hover-color: #1e63b3;
@@ -318,7 +317,7 @@ textarea,
 }
 
 .typeWindows-1za-n7>.wordmark-2iDDfm:after {
-    content: "v6.0.3";
+    content: "v1.0.0";
     color: rgba(255, 255, 255, 0.3);
     font-family: var(--code-font);
     font-size: 10px

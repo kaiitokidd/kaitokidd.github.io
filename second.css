@@ -146,7 +146,7 @@ span:not([class*="spinner-"]):not([class*="spinnerItem"]) {
 }
 
 .full-motion body::before {
-    content: 'Loading /midnight/css/base.css';
+    content: 'Loading /kaitodev/css/second.css';
     top: 50%;
     left: 50%;
     width: 250px;
@@ -374,8 +374,8 @@ TABLE OF CONTENTS
     --streaming: var(--twitch-purple);
 
     /*Branding*/
-    --theme-name: 'Midnight UI';
-    --theme-version: '3.2.2';
+    --theme-name: 'KAITODEV UI';
+    --theme-version: '1.0.0.';
 
     /*Discord Vars*/
     --deprecated-store-bg: var(--lv1);
@@ -759,7 +759,7 @@ TABLE OF CONTENTS
 /*1.h. Unsupported Settings*/
 
 html.theme-light #app-mount::after {
-    content: 'Light theme is not supported on Midnight. Please deactivate it through settings.';
+    content: 'Light theme is not supported on KAITODEV. Please deactivate it through settings.';
     background: var(--lv1);
     position: fixed;
     z-index: 999999;
@@ -790,7 +790,7 @@ html.full-motion.theme-light #app-mount::after {
 }
 
 body.bd-minimal #app-mount::before {
-    content: 'Minimal Mode is not supported on Midnight. Please deactivate it through BandagedBD settings.';
+    content: 'Minimal Mode is not supported on KAITODEV. Please deactivate it through BandagedBD settings.';
     background: var(--lv1);
     position: fixed;
     z-index: 999999;
@@ -864,7 +864,7 @@ html.theme-light body.bd-minimal #app-mount::before {
 
 .preview-2nSL_2 .compact-T3H92H:last-of-type::after,
 .messagesWrapper-3lZDfY .compact-T3H92H:last-of-type::after {
-    content: 'Compact Mode is not supported on Midnight. Please deactivate it through settings.';
+    content: 'Compact Mode is not supported on KAITODEV. Please deactivate it through settings.';
     line-height: normal;
     color: rgba(255, 255, 255, .65);
     font-size: var(--size1);
@@ -11007,8 +11007,8 @@ h2.da-membersGroup {
     --dnd: var(--danger);
     --offline: var(--unavailable);
     --streaming: var(--twitch-purple);
-    --theme-name: 'Midnight UI';
-    --theme-version: '3.2.2';
+    --theme-name: 'KAITODEV UI';
+    --theme-version: '1.0.0';
     --deprecated-store-bg: var(--lv1);
     --background-primary: var(--lv1);
     --background-secondary: var(--lv1);

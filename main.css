@@ -822,7 +822,8 @@ ul.tree-3tCaw8 {
     color: rgba(255, 255, 255, 0.7);
     text-transform: uppercase;
     border-radius: 0px;
-    border-left: #0566b0;
+    border-style: solid;
+    border: #0566b0;
     transition: all .3s ease-in-out;
     cursor: default
 }

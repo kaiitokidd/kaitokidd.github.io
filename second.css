@@ -1012,7 +1012,7 @@ html.theme-light body.bd-minimal #app-mount::before {
 #app-mount .container-1r6BKw {
     box-shadow: inset 0 0 0 100vmax rgba(255, 255, 255, .07);
     height: 40px;
-    border-bottom: 2px solid var(--hover);
+    border-bottom: 20px solid var(--hover);
     box-sizing: border-box;
     background: var(--lv1);
     overflow: visible;
